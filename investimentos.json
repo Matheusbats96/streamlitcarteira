@@ -1,0 +1,184 @@
+[
+    {
+        "id": "473bf8f8-b3c9-4c18-a740-2b04c13da35e",
+        "ticker": "ALUP11",
+        "classe": "Ações",
+        "quantidade": 53.0,
+        "preco_medio": 29.83
+    },
+    {
+        "id": "92d4b91b-4463-48a6-b8b9-c4288b730311",
+        "ticker": "BLAU3",
+        "classe": "Ações",
+        "quantidade": 71.0,
+        "preco_medio": 14.45
+    },
+    {
+        "id": "e6a38d48-1c6b-49c3-bbf2-96f280c291a7",
+        "ticker": "BRKM5",
+        "classe": "Ações",
+        "quantidade": 88.0,
+        "preco_medio": 16.4
+    },
+    {
+        "id": "69407e00-a003-45b9-b5d8-bf81d7b1365e",
+        "ticker": "EGIE3",
+        "classe": "Ações",
+        "quantidade": 44.0,
+        "preco_medio": 42.13
+    },
+    {
+        "id": "9ce937bb-ea80-473e-a483-94e53c90f050",
+        "ticker": "ELET6",
+        "classe": "Ações",
+        "quantidade": 30.0,
+        "preco_medio": 45.13
+    },
+    {
+        "id": "d033d68e-c660-4a41-8c2a-497d16ed96b3",
+        "ticker": "KLBN11",
+        "classe": "Ações",
+        "quantidade": 82.0,
+        "preco_medio": 21.38
+    },
+    {
+        "id": "b9c0c1f8-bda6-4790-881a-5897477d2172",
+        "ticker": "MRFG3",
+        "classe": "Ações",
+        "quantidade": 88.0,
+        "preco_medio": 12.39
+    },
+    {
+        "id": "38d5e178-34ef-4bcd-9cd3-d1497d015e48",
+        "ticker": "SOJA3",
+        "classe": "Ações",
+        "quantidade": 109.0,
+        "preco_medio": 13.03
+    },
+    {
+        "id": "37b5f1a5-5483-44fe-8e4d-ccea528fd00a",
+        "ticker": "TRIS3",
+        "classe": "Ações",
+        "quantidade": 165.0,
+        "preco_medio": 5.37
+    },
+    {
+        "id": "0634b851-1394-4249-a3c2-bdf6d1307014",
+        "ticker": "TTEN3",
+        "classe": "Ações",
+        "quantidade": 80.0,
+        "preco_medio": 12.95
+    },
+    {
+        "id": "affa025f-ee3d-447e-aa43-ae27aef94096",
+        "ticker": "TUPY3",
+        "classe": "Ações",
+        "quantidade": 68.0,
+        "preco_medio": 23.67
+    },
+    {
+        "id": "7d8ba1e2-b686-482d-b33d-2b50741e9a8f",
+        "ticker": "VALE3",
+        "classe": "Ações",
+        "quantidade": 36.0,
+        "preco_medio": 60.12
+    },
+    {
+        "id": "58886aa8-d34d-478c-b2ce-4a03eb784d98",
+        "ticker": "RESERVA DE EMERGÊNCIA",
+        "classe": "Renda Fixa",
+        "quantidade": 1.0,
+        "preco_medio": 4702.0
+    },
+    {
+        "id": "b2fe8995-3a49-46f9-975e-cbcbdabb0540",
+        "ticker": "RENDA FIXA (SONHOS)",
+        "classe": "Renda Fixa",
+        "quantidade": 1.0,
+        "preco_medio": 4962.0
+    },
+    {
+        "id": "ae0f6c9e-955d-4cb5-b03a-d713989da235",
+        "ticker": "INTERNACIONAL",
+        "classe": "Internacional",
+        "quantidade": 1.0,
+        "preco_medio": 46733.0
+    },
+    {
+        "id": "0642634c-c0c1-4a90-ade5-1927eccb24eb",
+        "ticker": "SELIC",
+        "classe": "Renda Fixa",
+        "quantidade": 1.0,
+        "preco_medio": 76557.24
+    },
+    {
+        "id": "d2c23e30-aca7-4142-a2c3-6cf87d5077f6",
+        "ticker": "IPCA 2045",
+        "classe": "Renda Fixa",
+        "quantidade": 1.0,
+        "preco_medio": 21122.54
+    },
+    {
+        "id": "56eaeae7-2fad-452a-b5d7-f1571c5cc0a2",
+        "ticker": "CRIPTO",
+        "classe": "Cripto",
+        "quantidade": 1.0,
+        "preco_medio": 1396.35
+    },
+    {
+        "id": "24b73724-1668-4ade-b9be-2b88713787db",
+        "ticker": "TGAR11",
+        "classe": "FIIs",
+        "quantidade": 28.0,
+        "preco_medio": 101.0
+    },
+    {
+        "id": "c5f52525-7634-436e-8eff-1f03a60efa0c",
+        "ticker": "RECR11",
+        "classe": "FIIs",
+        "quantidade": 30.0,
+        "preco_medio": 83.62
+    },
+    {
+        "id": "6d6ade17-2179-4a53-9e7c-4d017b473f04",
+        "ticker": "LVBI11",
+        "classe": "FIIs",
+        "quantidade": 22.0,
+        "preco_medio": 106.74
+    },
+    {
+        "id": "61cc7141-6202-4d75-838d-900d5570286e",
+        "ticker": "PMLL11",
+        "classe": "FIIs",
+        "quantidade": 21.0,
+        "preco_medio": 111.48
+    },
+    {
+        "id": "2b2882e0-5058-406d-8876-c903989a6abc",
+        "ticker": "XPML11",
+        "classe": "FIIs",
+        "quantidade": 22.0,
+        "preco_medio": 106.47
+    },
+    {
+        "id": "6b7543a5-dda9-4506-995a-f00cfb5787f6",
+        "ticker": "RBRP11",
+        "classe": "FIIs",
+        "quantidade": 54.0,
+        "preco_medio": 53.27
+    },
+    {
+        "id": "15dc14f3-2a88-44d6-952e-88c6955aa4ee",
+        "ticker": "TRXF11",
+        "classe": "FIIs",
+        "quantidade": 26.0,
+        "preco_medio": 106.22
+    },
+    {
+        "id": "396068b0-a4fb-4d1c-a84e-b470e648c879",
+        "ticker": "BTLG11",
+        "classe": "FIIs",
+        "quantidade": 24.0,
+        "preco_medio": 101.24
+    }
+]
